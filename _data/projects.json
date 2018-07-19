@@ -34,6 +34,12 @@
     "description": "After a few different projects, I decided to post my write-ups and other smaller, fun inspections of public data sources. On my WordPress, I've investigated how transportation effects commutes (with interactive maps and analytics) as well as how public transit effects consumer habits, development of pre-K centers, and traffic patterns.",
     "url": "https://www.ocf.berkeley.edu/~cbayer/",
     "img": "heat-map-pre-k"
+  },
+  {
+    "name": "My Resume",
+    "description": "If you're interested to learn more about where I've been and what I've done professionally, you can see my resume here. ",
+    "url": "https://drive.google.com/file/d/1XYk5zhUXGtS5KPmn46HoPwW7CcE3uVLK/view?usp=sharing",
+    "img": "cass-and-dog"
   }
   
 ]
