@@ -18,8 +18,14 @@ email: cassandra.m.bayer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The portfolio of data scientist Cassandra Bayer. Learn about me and my work here.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://lmerriam.github.io/cassandra-bayer-portfolio" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lmerriam.github.io/cassandra-bayer-portfolio" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: cassandrabayer
+logo: assets/img/bayer_bear.svg
+social:
+  name: Cassandra Bayer
+  links:
+    - https://github.com/cassandrabayer
+    - https://www.linkedin.com/in/cassandra-bayer-m-ed-m-p-p-b078045b/
 
 # Build settings
 markdown: kramdown
@@ -27,6 +33,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

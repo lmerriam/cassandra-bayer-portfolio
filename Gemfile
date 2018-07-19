@@ -30,3 +30,6 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Generate a sitemap
 gem 'jekyll-sitemap'
+
+# SEO
+gem 'jekyll-seo-tag'
