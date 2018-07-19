@@ -2,7 +2,7 @@
   {
     "name": "Cost of the Commute",
     "description": "I created interactive web map that shows the aggressive trade off between affordable housing and commute times in the Bay area; the map is available here. The project relied on heavily on Python and R for data cleaning, analysis, science and visualization. A more detailed account of the workflow, methodology, and findings can be accessed below.",
-    "url": "https://www.ocf.berkeley.edu/~cbayer/",
+    "url": "https://cassandrabayer.shinyapps.io/map_app/",
     "img": "project-commute"
   },
   {
@@ -22,5 +22,18 @@
     "description": "I created a number of models using U.S. Census data to try to classify which households were low income. I used a number of binary classifiers including logit regression, SVM, and a decision tree. I found that the SVM had the most predictive capacity in terms of classification, but was also subject to noise. The regression, however, revealed that race and marital status bore heavily on one's probably of being low-income.",
     "url": "http://rpubs.com/cassandrabayer/397578",
     "img": "project-income"
+  },
+  {
+    "name": "Feasibility Analysis for Housing in SF",
+    "description": "Due to the high-density, high-price of housing in SF, housing for the homeless (supportive housing) is not prioritized. As a consultant, I modeled the feasibility of using modular, pre-fabicated housing as an alternative to the housing crisis. I found that, while modulars could be employed, city regulations and zoning poses the largest threat to new construction. ",
+    "url": "https://drive.google.com/file/d/1q-B26sxZoqM7wN44KGwSXFtJcHqPjjd1/view?usp=sharing",
+    "img": "supportive-housing"
+  },
+  {
+    "name": "Data Science in the Wild",
+    "description": "After a few different projects, I decided to post my write-ups and other smaller, fun inspections of public data sources. On my WordPress, I've investigated how transportation effects commutes (with interactive maps and analytics) as well as how public transit effects consumer habits, development of pre-K centers, and traffic patterns.",
+    "url": "https://www.ocf.berkeley.edu/~cbayer/",
+    "img": "heat-map-pre-k"
   }
+  
 ]
