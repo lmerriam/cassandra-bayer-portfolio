@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The portfolio of data scientist Cassandra Bayer. Learn about me and my work here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lmerriam.github.io/cassandra-bayer-portfolio" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  cassandrabayer
+github_username: cassandrabayer
 
 # Build settings
 markdown: kramdown
