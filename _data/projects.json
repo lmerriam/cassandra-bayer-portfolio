@@ -3,7 +3,7 @@
     "name": "Evaluating Treatment Effectiveness",
     "description": "I built a model to assess whether or not a treatment was effective to reduce the number of re-arrests for recent convicts. The model proves that, without proper balance in treatment and control groups, the analysis will yield nothing of consequence. I designed a re-assignment protocol based on propensity scores to ensure balance in the experimental groups.",
     "url": "http://rpubs.com/cassandrabayer/407521",
-    "img": "Screen Shot 2018-08-07 at 11.51.41 AM.png"
+    "img": "Screen Shot 2018-08-07 at 11.51.41 AM"
   },
   
   {
